@@ -1,0 +1,17 @@
+{
+  "name": "ming-npm",
+  "version": "1.0.1",
+  "description": "use ts",
+  "main": "./dist/ming-npm-package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "xiaoming",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
